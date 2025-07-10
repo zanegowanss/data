@@ -420,3 +420,7 @@
     "virtual": true
   }
 ]
+"icao": "SCV",
+    "name": "Southern Cross Virtual",
+    "callsign": "Southern Cross",
+    "virtual": true
