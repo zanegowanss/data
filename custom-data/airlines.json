@@ -2058,5 +2058,11 @@
     "name": "Koala Air",
     "callsign": "KOALA",
     "virtual": false
+  },
+  {
+    "icao": "PVR",
+    "name": "Pacific Air Virtual",
+    "callsign": "Pacific",
+    "virtual": true
   }
 ]
